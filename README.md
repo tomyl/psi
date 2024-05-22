@@ -1,6 +1,7 @@
 # psi Ψ
 
 ![CI](https://github.com/tomyl/psi/actions/workflows/ci.yml/badge.svg?branch=main&event=push)
+[![Go Reference](https://pkg.go.dev/badge/github.com/tomyl/psi.svg)](https://pkg.go.dev/github.com/tomyl/psi)
 
 A Go library for writing script-like programs.
 
